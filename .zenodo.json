@@ -1,233 +1,39 @@
 {
-  "creators": [
-    {
-      "affiliation": [
-        {
-          "name": "German Aerospace Center"
-        },
-        {
-          "name": "Leiden University"
-        }
-      ],
-      "familyName": "Harpprecht",
-      "givenName": "Carina",
-      "name": "Harpprecht, Carina",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-2878-0139",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Leiden University"
-        }
-      ],
-      "familyName": "Miranda Xicotencatl",
-      "givenName": "Brenda",
-      "name": "Miranda Xicotencatl, Brenda",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0003-0714-6697",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Universiteit Leiden"
-        }
-      ],
-      "familyName": "van Nielen",
-      "givenName": "Sander",
-      "name": "van Nielen, Sander",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-5441-0836",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Leiden University"
-        }
-      ],
-      "familyName": "van der Meide",
-      "givenName": "Marc",
-      "name": "van der Meide, Marc",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0001-6888-316X",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Leiden University"
-        }
-      ],
-      "familyName": "Li",
-      "givenName": "Chen",
-      "name": "Li, Chen",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0001-8506-2806",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "familyName": "Li",
-      "givenName": "Zhijie",
-      "name": "Li, Zhijie",
-      "nameIdentifiers": [],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Universiteit Leiden"
-        },
-        {
-          "name": "Netherlands Organisation for Applied Scientific Research TNO"
-        }
-      ],
-      "familyName": "Tukker",
-      "givenName": "Arnold",
-      "name": "Tukker, Arnold",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-8229-2929",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "name": "Leiden University"
-        }
-      ],
-      "familyName": "Steubing",
-      "givenName": "Bernhard",
-      "name": "Steubing, Bernhard",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-1307-6376",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    }
-  ],
-  "dates": [
-    {
-      "date": "2023-11-17",
-      "dateType": "Issued"
-    },
-    {
-      "date": "2023-11-17",
-      "dateType": "Created"
-    },
-    {
-      "date": "2024-04-02",
-      "dateType": "Updated"
-    }
-  ],
-  "descriptions": [
-    {
-      "description": "This repository provides the supplementary data to the paper titled\u00a0\"Future environmental impacts of metals: a systematic review of impact trends, modelling approaches, and challenges\", published 2024 in\u00a0Resources, Conservation and Recycling.\n\nContents\n\nThe repository is split in 3 parts and comprises the following files (more details are provided in the README.md):\n\nA_Database of reviewed studies:\n\n\n\ncontains the detailed review data, meant for readers to use as an overview file to gather studies relevant to them. It also includes an overview of all data sources that the reviewed studies used.\n\n\nB_Scientific supplement to paper:\n\n\n\nContains all data relevant to the related publication Harpprecht et al. (2024), such as studies screened , FAIR data analysis, or analyzed impact trends.\n\n\nC_Data for figures in paper:\n\n\n\nThis file contains all the data for Figures 3, 4 and 5 in tabular form, representing impact trends, scenario variables, scenario modelling approaches and data sources used.\n\n\nSummary\n\nThese files allow to reproduce the results of our study. In this work, we systematically reviewed studies which assessed future environmental impacts of metal supply chains. Our review yielded 40 publications covering 15 metals: copper, iron, aluminium, nickel, zinc, lead, cobalt, lithium, gold, manganese, neodymium, dysprosium, praseodymium, terbium, and titanium. We evaluated their results regarding future impact trends, and their methods, i.e., modelling approaches, scenario variables, and data sources of scenario variables. We identified 15 scenario variables. The most common variables are background electricity mix, ore grade, recycling shares, demand, and energy efficiency. We identified 229 unique data sources for the reviewed scenario variables.\n\nRelated publication\n\nMore details on the data and its interpretation as well as the scientific context are provided in the publication itself:\n\nHarpprecht, C., Miranda Xicotencatl, B., van Nielen, S., van der Meide, M., Li, C. , Li, Z., Tukker, A., Steubing, B. (2024). Future environmental impacts of metals: a systematic review of impact trends, modelling approaches, and challenges. Resources, Conservation and Recycling.\n\nFunding\u00a0\n\nCarina Harpprecht received funding from the Energy Program of the German Aerospace Center in 2022. Zhijie Li received funding from the European Institute of Innovation and Technology (EIT) under the project Valomag (Project No.\u202f14049).\n\nLicense\n\nCC-BY 4.0 license for DLR (German Aerospace Center)",
-      "descriptionType": "Abstract"
-    }
-  ],
-  "identifiers": [
-    {
-      "identifier": "https://zenodo.org/records/10066584",
-      "identifierType": "URL"
-    },
-    {
-      "identifier": "10.5281/zenodo.10066584",
-      "identifierType": "DOI"
-    },
-    {
-      "identifier": "oai:zenodo.org:10066584",
-      "identifierType": "oai"
-    }
-  ],
-  "language": "eng",
-  "publicationYear": "2023",
-  "publisher": "Zenodo",
-  "relatedIdentifiers": [
-    {
-      "relatedIdentifier": "10.1016/j.resconrec.2024.107572",
-      "relatedIdentifierType": "DOI",
-      "relationType": "IsSupplementTo",
-      "resourceTypeGeneral": "JournalArticle"
-    },
-    {
-      "relatedIdentifier": "10.5281/zenodo.10066583",
-      "relatedIdentifierType": "DOI",
-      "relationType": "IsVersionOf"
-    },
-    {
-      "relatedIdentifier": "https://zenodo.org/communities/indecol",
-      "relatedIdentifierType": "URL",
-      "relationType": "IsPartOf"
-    }
-  ],
-  "rightsList": [
-    {
-      "rights": "Creative Commons Attribution 4.0 International",
-      "rightsIdentifier": "cc-by-4.0",
-      "rightsIdentifierScheme": "spdx",
-      "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode"
-    }
-  ],
-  "schemaVersion": "http://datacite.org/schema/kernel-4",
-  "subjects": [
-    {
-      "subject": "life cycle assessment (LCA)"
-    },
-    {
-      "subject": "prospective LCA"
-    },
-    {
-      "subject": "metal production"
-    },
-    {
-      "subject": "scenarios"
-    },
-    {
-      "subject": "climate change"
-    },
-    {
-      "subject": "renewable energy"
-    },
-    {
-      "subject": "future"
-    }
-  ],
-  "titles": [
-    {
-      "title": "Supplementary data for the article: Future environmental impacts of metals: a systematic review of impact trends, modelling approaches, and challenges"
-    }
-  ],
-  "types": {
-    "resourceType": "",
-    "resourceTypeGeneral": "Dataset"
-  },
-  "version": "1.0.0"
+   "creators":[
+      {
+         "orcid":"0000-0002-1825-0097",
+         "affiliation":"Feline reasearch institute",
+         "name":"Field, Gar"
+      },
+      {
+         "orcid":"0000-0002-1825-0097",
+         "affiliation":"Feline reasearch institute",
+         "name":"Cat, Felix"
+      }
+   ],
+   "license":"Apache-2.0",
+   "title":"Red-Dot: ML-powered laser vector detection",
+   "related_identifiers":[
+      {
+         "scheme":"doi",
+         "identifier":"10.1234/software.paper.5678",
+         "relation":"isDocumentedBy",
+         "resource_type":"publication-article"
+      }
+   ],
+   "keywords":[
+      "Cats",
+      "Laser",
+      "Behavior"
+   ],
+   "communities":[
+      {
+         "identifier":"software-cats"
+      }
+   ],
+   "grants":[
+      {
+         "id":"777541"
+      }
+   ]
 }
